@@ -1,0 +1,13 @@
+@import "./colors.css";
+
+body {
+  margin: 0;
+  background-color: var(--secondary-color);
+}
+
+button,
+select {
+  border: none;
+  outline: none;
+  padding: 0;
+}
